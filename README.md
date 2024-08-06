@@ -1,3 +1,4 @@
+![Project Legacy Banner](banner.jpg)
 # Project Legacy
 
 ## What is Project Legacy?
