@@ -1,5 +1,5 @@
-![Project Legacy Banner](banner.jpg)
 # Project Legacy
+![Project Legacy Banner](banner.jpg)
 
 ## What is Project Legacy?
 
